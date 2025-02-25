@@ -1,7 +1,7 @@
 # GroceryDelivery_PowerBI
 
 ## 📌 Overview
-This Power BI dashboard provides insights into Blinkit's sales performance, customer satisfaction, and inventory distribution using key performance indicators (KPIs) and visualizations.
+This Power BI dashboard provides insights into Grocery Delivery's sales performance, customer satisfaction, and inventory distribution using key performance indicators (KPIs) and visualizations.
 
 ## 📝 Business Requirement
 To analyze sales trends, customer ratings, and inventory distribution, identifying key insights and optimization opportunities.
